@@ -1,0 +1,5 @@
+{
+    "passwordSalt": 10,
+    "authSecretKey": "An0th3r#S3cureK3y!@56AaBbCcDdEeFfGgHhIiJjKkLl",
+    "sensorAuthToken" : "An0th3r#S3cureK3y!@56AaauenDdEeFfGgHhIiJjKkLl"
+}
