@@ -28,3 +28,6 @@ module.exports = {
     sensorSchema,
     logSchema
 };
+
+
+console.log("let's fucking go!");
