@@ -28,3 +28,5 @@ module.exports = {
     sensorSchema,
     logSchema
 };
+
+console.log("hi");
