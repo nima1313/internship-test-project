@@ -29,4 +29,4 @@ module.exports = {
     logSchema
 };
 
-console.log("hi");
+console.log("bye");
